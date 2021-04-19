@@ -22,6 +22,7 @@
 ## Youtube
 - [Understanding the Blockchain Protocol](https://www.youtube.com/watch?v=gjwr-7PgpN8)
 - [How does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4&vl=en)
+- [How to build full stack dApps - Angela](https://www.youtube.com/watch?v=QAO7YxF7hSk)
 
 
 ## Github
