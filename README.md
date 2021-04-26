@@ -19,6 +19,10 @@
 - [List of Ethereum Tools](https://media.consensys.net/an-definitive-list-of-ethereum-developer-tools-2159ce865974)
 
 
+## Slides
+-[Building a fullstack Dapp](https://hackmd.io/@angelagilhotra/ByLhwZjPU)
+
+
 ## Youtube
 - [Understanding the Blockchain Protocol](https://www.youtube.com/watch?v=gjwr-7PgpN8)
 - [How does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4&vl=en)
